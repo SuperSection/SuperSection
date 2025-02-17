@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋🏻, I'm Soumo Sarkar</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on my own MERN stack project<br>🤝 I’m looking for like minded people in this Tech Journey and New Ideas for Startup<br>🌱 I’m currently in search of remote jobs or opportunities<br>✨ Curious about DevOps and AI stuffs<br>⚡ Fun fact: I love exploring new technologies
+🔭 I’m currently Learning DevOps tools & Automation<br>🤝 I’m looking for like minded people in this Tech Journey and New Ideas for Startup<br>🌱 I’m currently in search of remote jobs or opportunities<br>✨ Curious about Blockchain and AI stuffs<br>⚡ Fun fact: I love exploring new technologies
 
 
 ## 🌐 Socials:
